@@ -55,3 +55,9 @@ h1{
     font-size: 1.3rem;
     color: gray;
 }
+
+.reasons-for{
+    font: optional;
+    display: inline-grid;
+    color: white;
+}
